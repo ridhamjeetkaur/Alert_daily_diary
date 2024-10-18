@@ -1,0 +1,9 @@
+Setting Up My Development Environment
+
+Today was all about setting up my development environment to begin working on AI models and chatbots. I installed Python,
+Jupyter Notebooks, and several key libraries like Hugging Face Transformers, which are essential for working with LLMs. 
+Additionally, I explored APIs such as OpenAI's GPT and Gemini, which provide access to powerful language models that
+can integrate into my chatbot project. This setup process was crucial to ensuring that I have all the necessary tools to 
+train and fine-tune AI models, as well as integrate them into web applications. While it was a more technical day, it 
+laid the groundwork for hands-on work in the coming days. Having everything properly configured means I can now 
+focus entirely on developing, fine-tuning, and deploying the chatbot without being slowed down by technical issues.
