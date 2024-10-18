@@ -1,0 +1,12 @@
+Large Language Models (LLMs) Overview
+
+Today’s focus was on Large Language Models (LLMs), which are crucial for generating human-like text.
+I  learned about the architecture of LLMs, particularly transformer models, which are designed to process
+sequential data efficiently using self-attention mechanisms. This innovative architecture allows LLMs 
+to excel in tasks like translation, summarization, and dialogue generation. I explored models like GPT (
+Generative Pre-trained Transformer) and BERT (Bidirectional Encoder Representations from Transformers), 
+understanding their strengths and how they are fine-tuned for specific tasks. What stood out today was 
+the sheer scale of these models, which are trained on vast amounts of text data and can generate coherent, 
+context-aware responses. I realized the significance of LLMs in chatbot development, where they are used to 
+generate natural-sounding, informative answers. This session broadened my understanding of the AI landscape and 
+made me excited to start working with these powerful models in practical applications.
